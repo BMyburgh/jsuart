@@ -61,7 +61,7 @@ metadata: jsu_metadata
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: false 
+# noindex: true
 
 ##########
 # BUILD SETTINGS 

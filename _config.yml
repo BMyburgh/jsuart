@@ -20,7 +20,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: "Jackson State University: Permanent Art Collection"
+title: "Permanent Art Collection"
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: "Department of Art, Jackson State University"
 # description appears in meta tags and other locations
@@ -42,9 +42,8 @@ metadata: jsu_metadata
 #
 # organization-name: "Department of ARt, Jackson State University"
 # organization-link: https://jsums.edu/art
-# organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
-
+# organization-logo-banner: https://upload.wikimedia.org/wikipedia/commons/3/36/Jackson_State_University_logo.png
+# organization-logo-nav: https://upload.wikimedia.org/wikipedia/commons/3/36/Jackson_State_University_logo.png
 
 
 ##########

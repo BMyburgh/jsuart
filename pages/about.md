@@ -14,14 +14,8 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+The Jackson State University Art Collection is a result of over 70 years of collecting artwork to support cultural and civic engagement amongst students and the public. The collection was founded by Lawrence Arthur Jones, the first chair of the Art Department, who began to collect artwork that would provide students with access to diverse forms of cultural expression. 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+The JSU Art Collection is now housed in the new Johnson Hall, which is a 30,000 square foot facility constructed on the site of the old Johnson Hall. This new space supports climate controlled storage facilities for the JSU art collection. The collection is a valuable research and teaching resource, and is open to the public and researchers.
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+Please contact the department and curator for further information. 

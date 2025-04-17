@@ -8,11 +8,11 @@
 ##########
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid, a relative path, or a full URL
-featured-image: coll016
+featured-image: coll007
 # extra padding around collection title for a larger image feature
 home-title-y-padding: 2em  
 # change position of background image: center, top, bottom
-home-banner-image-position: top  
+home-banner-image-position: center  
 
 ##########
 # ITEM PAGE

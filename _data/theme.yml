@@ -80,10 +80,14 @@ navbar-background: bg-primary
 bootswatch: flatly  
 
 # THEME FONTS & COLORS
-base-font-family: Poppins  
-base-font-size: 1.3em  
-text-color: "#333333"  
-link-color: "#0056b3"  
+##########
+base-font-family: "'Poppins', sans-serif"
+base-font-size: 1.3em
+text-color: "#333333"
+link-color: "#0056b3"
+
+# load Google’s Poppins face
+font-cdn: "<link href='https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap' rel='stylesheet'>"  
 
 # theme icon overrides (optional)
 # icons:

@@ -8,7 +8,7 @@
 ##########
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid, a relative path, or a full URL
-featured-image: /assets/img/coleman.jpg  
+featured-image: /assets/img/coleman1.jpg  
 # extra padding around collection title for a larger image feature
 home-title-y-padding: 12em  
 # change position of background image: center, top, bottom
@@ -63,9 +63,9 @@ metadata-facets-fields: "subject,creator,format"
 ##########
 map-child-objects: true  
 timeline-child-objects: true  
-data-child-objects: false  
-carousel-child-objects: false  
-browse-child-objects: false  
+data-child-objects: true  
+carousel-child-objects: true  
+browse-child-objects: true  
 search-child-objects: true  
 
 ##########
@@ -73,7 +73,7 @@ search-child-objects: true
 ##########
 
 # NAVBAR COLORS
-navbar-color: navbar-dark  
+navbar-color: #002147  
 navbar-background: bg-primary  
 
 # BOOTSWATCH THEME
@@ -84,7 +84,7 @@ bootswatch: flatly
 base-font-family: "'Poppins', sans-serif"
 base-font-size: 1.3em
 text-color: "#333333"
-link-color: "#0056b3"
+link-color: "#008ED6"
 
 # load Google’s Poppins face
 font-cdn: "<link href='https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap' rel='stylesheet'>"  
